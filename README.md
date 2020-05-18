@@ -19,7 +19,7 @@ Requirements
 
 * Compiler: Visual Studio (2012, v11) or gcc (v4.8.1)
 * Weka (v3.6.5)
-* Python (v2.7)
+* Python (v3.5)
 
 Optional:
 * Graphviz (v2.28)
