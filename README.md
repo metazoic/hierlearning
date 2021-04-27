@@ -8,7 +8,7 @@ HierLearning is a C++11 implementation of a general-purpose, multi-agent, hierar
 
 For details, please refer to:
 
-[Neville Mehta. Hierarchical Structure Discovery and Transfer in Sequential Decision Problems. PhD thesis, Oregon State University, 2011.](https://drive.google.com/open?id=0B2wbKjDk83GxcWVlNDNLRFQwYVU)
+[Neville Mehta. Hierarchical Structure Discovery and Transfer in Sequential Decision Problems. PhD thesis, Oregon State University, 2011.](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/4j03d2489)
 
 
 ------------
